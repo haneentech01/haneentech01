@@ -13,7 +13,6 @@
 <p align="left"> <a href="https://twitter.com/haneentech01" target="blank"><img src="https://img.shields.io/twitter/follow/haneentech01?logo=twitter&color=1DA1F2&style=for-the-badge" alt="haneentech01" /></a> </p>
 <p align="left"> <a href="https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=haneentech01" target="_blank"><img src=https://img.shields.io/badge/Connect%20Me-%2300acee.svg?color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a></p>
 
-<img src="https://www.codewars.com/users/haneentech01/badges/large" alt="Haneen Alaa Codewars Badge">
 <div align="left">
 <a href="https://linkedin.com/in/haneentech01" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
