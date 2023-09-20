@@ -200,6 +200,6 @@
   <a href="mailto:haneentech01@gmail.com" target="blank"><img alt="Gmail" title="Haneen Alaa Sheikha Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/haneentech01" target="blank"><img alt="Telegram" title="Haneen Alaa Sheikha Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="http://twitter.com/haneentech01" target="blank"><img alt="Twitter" title="haneentech01 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="http://wa.me/00972595961289" target="blank"><img alt="Whatsapp" title="Haneen Alaa Sheikha Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="http://m.me/haneentech01" target="blank"><img alt="Messenger" title="haneentech01 Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+  <a href="http://wa.me/00970569359991" target="blank"><img alt="Whatsapp" title="Haneen Alaa Sheikha Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="http://m.me/haneentech01" target="blank"><img alt="Messenger" title="Haneen Alaa Sheikha Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 </p>
