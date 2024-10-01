@@ -189,16 +189,16 @@
 
 <h2> Connect with me <img src='https://github.com/haneentech01/haneentech01/blob/main/handshake.gif' width="100px"> </h2>
 <p align="center">
-  <a href="https://linkedin.com/in/haneentech01" target="blank"><img alt="Linkedin" title="haneentech01 Linkedin" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/haneentech01" target="blank"><img alt="Github" title="haneentech01 Github" src="https://img.shields.io/badge/GitHub-666666?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/haneentech01" target="_blank"><img alt="Linkedin" title="haneentech01 Linkedin" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/haneentech01" target="_blank"><img alt="Github" title="haneentech01 Github" src="https://img.shields.io/badge/GitHub-666666?style=for-the-badge&logo=github&logoColor=white"></a>
   <!-- <a href="https://www.snapchat.com/add/haneentech01" target="blank"><img alt="Bad Boy Snapchat" title="haneentech01 SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a> -->
-  <a href="https://facebook.com/haneentech01" target="blank"><img alt="Facebook" title="haneentech01 Facebook" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/haneentech01" target="blank"><img alt="Instagram" title="haneentech01 Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://facebook.com/haneentech01" target="_blank"><img alt="Facebook" title="haneentech01 Facebook" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/haneentech01" target="_blank"><img alt="Instagram" title="haneentech01 Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:haneentech01@gmail.com" target="blank"><img alt="Gmail" title="Haneen Alaa Sheikha Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/haneentech01" target="blank"><img alt="Telegram" title="Haneen Alaa Sheikha Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="http://twitter.com/haneentech01" target="blank"><img alt="Twitter" title="haneentech01 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="http://wa.me/00970569359991" target="blank"><img alt="Whatsapp" title="Haneen Alaa Sheikha Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="http://m.me/haneentech01" target="blank"><img alt="Messenger" title="Haneen Alaa Sheikha Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+  <a href="mailto:haneentech01@gmail.com" target="_blank"><img alt="Gmail" title="Haneen Alaa Sheikha Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/haneentech01" target="_blank"><img alt="Telegram" title="Haneen Alaa Sheikha Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="http://twitter.com/haneentech01" target="_blank"><img alt="Twitter" title="haneentech01 Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="http://wa.me/00970569359991" target="_blank"><img alt="Whatsapp" title="Haneen Alaa Sheikha Whatsapp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="http://m.me/haneentech01" target="_blank"><img alt="Messenger" title="Haneen Alaa Sheikha Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 </p>
